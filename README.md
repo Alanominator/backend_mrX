@@ -1,3 +1,14 @@
+To run server, if you don't use linux, create virtual environment and:
+
+> pip install -r requirements.txt
+
+else:
+
+> . me/bin/activate
+
+
+To run server:
+
 > python3 manage.py runserver
 
 
