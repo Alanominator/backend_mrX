@@ -3,3 +3,4 @@ pillow
 django-cleanup
 djangorestframework
 djangorestframework-simplejwt
+celery
