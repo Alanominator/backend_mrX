@@ -10,6 +10,7 @@ https://www.geeksforgeeks.org/creating-python-virtual-environment-windows-linux/
 
 > python manage.py runserver
 
+.
 ### // help
 #### To delete all the data from database delete all the migrations and also database:
 >  find . -path "*/migrations/*.py" -not -name "__init__.py" -delete
