@@ -10,7 +10,7 @@ https://www.geeksforgeeks.org/creating-python-virtual-environment-windows-linux/
 
 > python manage.py runserver
 
-__
+___
 
 .
 ### // help
