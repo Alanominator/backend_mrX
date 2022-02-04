@@ -6,9 +6,11 @@ https://www.geeksforgeeks.org/creating-python-virtual-environment-windows-linux/
 ### Then install all the libraries from requirements.txt
 > pip install -r requirements.txt
 
-### Run server:
+### Open the folder 'backend' where there's the file 'manage.py' and run server:
 
 > python manage.py runserver
+
+# _________________
 
 .
 ### // help
